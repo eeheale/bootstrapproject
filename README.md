@@ -1,5 +1,3 @@
 # bootstrapproject
 Bootstrap Responsive Design Project
-test
-test2
-test3
+Welcome to my website!
