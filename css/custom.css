@@ -1,0 +1,12 @@
+/* add your custom css here */
+/* do NOT edit the styles.css file */
+
+body {
+    font-family:'comfortaa', cursive;
+}
+header.bg-primary {
+    background-color: #d63384;
+}
+a.btn.btn-lg.btn-light {
+    background-color:#d63384;
+}
